@@ -1,0 +1,13 @@
+{
+    "new_install": "true",
+    "handbrake_path": "",
+    "source_path":"",
+    "subfolders":"true",
+    "destination_path": "",
+    "handbrake_options": "",
+    "scheduled": "",
+    "window_start": "",
+    "window_end": "",
+    "polling_interval": "1",
+    "logging": "true"
+}

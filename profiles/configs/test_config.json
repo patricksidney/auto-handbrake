@@ -1,0 +1,13 @@
+{
+    "new_install": "true",
+    "handbrake_path": "C:\\Handbrake\\HandBrakeCLI.exe",
+    "source_path":"\\\\Sidneynas\\sidneynas\\auto-handbrake\\source",
+    "subfolders":"true",
+    "destination_path": "\\\\Sidneynas\\sidneynas\\auto-handbrake\\dest",
+    "handbrake_options": "",
+    "scheduled": "",
+    "window_start": "",
+    "window_end": "",
+    "polling_interval": "1",
+    "logging": "true"
+}
